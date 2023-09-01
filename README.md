@@ -10,7 +10,7 @@
   - MINDBOOK 
 - 데이터분석기반의 전자제조전문인력양성사업
   - [스마트팜 노트(플랫폼) 데이터를 통한 최적화 연구](https://github.com/xoyeon/portfolio/blob/5640312944a5f53796600d30b99f34820517800f/%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%9C%20%EB%85%B8%ED%8A%B8%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%ED%86%B5%ED%95%9C%20%EC%B5%9C%EC%A0%81%ED%99%94%20%EC%97%B0%EA%B5%AC.pdf) 
-- 🚛 물류 유통량 예측 경진대회
+- 물류 유통량 예측 경진대회
   - [Dacon 대회 바로가기](https://dacon.io/competitions/official/235867/overview/description)
   - [EDA 결과](https://github.com/xoyeon/portfolio/blob/5640312944a5f53796600d30b99f34820517800f/%EB%AC%BC%EB%A5%98%20%EC%9C%A0%ED%86%B5%EB%9F%89%20%EC%98%88%EC%B8%A1%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C/%EB%AC%BC%EB%A5%98%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20EDA.pdf)
 - RIOT GAMES API
